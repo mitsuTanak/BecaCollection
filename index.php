@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <img src="assets/logo-roupa.png" alt="Logo" class="Logo">
+        <img src="assets/logo-roupa.png" alt="Logo" class="Logo" id="logo">
 
         <Ul class="paginas-N">
             <li><a href="#">Home</a></li>
