@@ -31,9 +31,9 @@
             <form action="processa.php" method="post" class="input">
 
                 <input type="text" name="nome" id="nome" placeholder="Nome Completo">
-                <input type="text" name="senha" id="senha" placeholder="Seu E-mail">
+                <input type="email" name="email" id="email" placeholder="Seu E-mail">
                 <input type="submit" value="Cadastrar" class="butão">
-                
+
             </form>
         </section>
     </main>
