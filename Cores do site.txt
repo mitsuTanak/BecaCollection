@@ -1,0 +1,12 @@
+Cores do site:
+
+Background do menu, da section e do footer
+Bege:  #C3BCB7
+
+Menus:
+Cor da fonte: #17203F
+Hover: :#8B634A
+
+Botão enviar
+Background: #1B3B56
+Hover:  #8B634A
